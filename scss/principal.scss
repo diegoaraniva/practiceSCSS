@@ -1,0 +1,11 @@
+//Variables
+$colorUno: azure;
+$fuenteEncabezados: italic 50px;
+
+body{
+    background-color: $colorUno;
+}
+
+h1{
+    font: $fuenteEncabezados;
+}
